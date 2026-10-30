@@ -1,0 +1,1 @@
+"""Simple Churn Predictor package."""
